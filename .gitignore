@@ -1,0 +1,31 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+env/
+venv/
+# Dossiers d'environnements virtuels
+.venv/
+.env/
+# Dossiers d'environnement spécifiques à l'IDE
+.idea/
+.vscode/
+
+# Fichiers de log
+*.log
+
+# Fichiers de configuration de l'éditeur
+*.swp
+*.swo
+
+# Caches de dépendances
+*.egg-info/
+dist/
+build/
+*.tar.gz
+
+# Configuration spécifique à Python
+*.pkl
+*.db
+*.sqlite3
